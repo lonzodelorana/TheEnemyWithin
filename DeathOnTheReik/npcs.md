@@ -12,7 +12,7 @@
   - [Marsalline Thorncobble XIII (Seedling)](#marsalline-thorncobble-xiii-seedling)
   - [Glimbrin Oddsock](#glimbrin-oddsock)
   - [Priests of Verena, Goddess of Lore and Learning](#priests-of-verena-goddess-of-lore-and-learning)
-    - [Jacob S](#jacob-s)
+    - [Jacob Schwartz](#jacob-schwartz)
   - [Mr + Mrs Schmidt](#mr--mrs-schmidt)
     - [Mr Schmidt](#mr-schmidt)
   - [Priests of Mor, God of the Dead](#priests-of-mor-god-of-the-dead)
@@ -74,7 +74,7 @@ Tenants of Verena
 - Combat must be the last resort, when all other options have been exhasusted
 - Never become a tool of injustice or herasy
 
-### Jacob S
+### Jacob Schwartz
 
 The order of the scalebearer, devoted of Verena
 
