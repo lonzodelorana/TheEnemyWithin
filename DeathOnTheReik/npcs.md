@@ -1,8 +1,24 @@
 # NPC Info
 
 - [NPC Info](#npc-info)
-  - [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
-  - [Bruno Frankie](#bruno-frankie)
+  - [Inn Staff](#inn-staff)
+    - [Hanz Orf](#hanz-orf)
+    - [Old Bess](#old-bess)
+  - [Gravin's Entourage](#gravins-entourage)
+    - [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
+    - [Bruno Frankie](#bruno-frankie)
+    - [2 Men at arms](#2-men-at-arms)
+    - [Servants](#servants)
+  - [Marsalline Thorncobble XIII (Seedling)](#marsalline-thorncobble-xiii-seedling)
+  - [Glimbrin Oddsock](#glimbrin-oddsock)
+  - [Priests of Verena, Goddess of Lore and Learning](#priests-of-verena-goddess-of-lore-and-learning)
+    - [Jacob S](#jacob-s)
+  - [Mr + Mrs Schmidt](#mr--mrs-schmidt)
+    - [Mr Schmidt](#mr-schmidt)
+  - [Priests of Mor, God of the Dead](#priests-of-mor-god-of-the-dead)
+  - [Ursula Kopfgeld](#ursula-kopfgeld)
+  - [Freedrick Fhuller, Travelling Hawker](#freedrick-fhuller-travelling-hawker)
+  - [Magrat, Trapper](#magrat-trapper)
 
 ## Inn Staff
 
