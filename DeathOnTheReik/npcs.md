@@ -1,11 +1,94 @@
 # NPC Info
 
-<!-- TOC -->autoauto- [NPC Info](#npc-info)auto    - [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)auto    - [Bruno](#bruno)autoauto<!-- /TOC -->
+- [NPC Info](#npc-info)
+  - [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
+  - [Bruno Frankie](#bruno-frankie)
 
-## Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln
+## Inn Staff
 
-Travelling to Temperbad to settle a legal dispute
+### Hanz Orf
 
-## Bruno
+Barman
+Racist towards halfings
 
-Judical Champion of [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
+### Old Bess
+
+Nicer than Hanz
+
+## Gravin's Entourage
+
+Came by coach
+
+### Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln
+
+Relative of the Elector Count of Nuln
+Travelling to Temperbad to settle a legal dispute to do with the death of a guest at a party in Nuln hosted by an aunt, Countess Emmanuelle
+
+### Bruno Frankie
+
+Bodyguard and Judical Champion of [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
+He is a hulking man in estillient dress
+
+### 2 Men at arms
+
+### Servants
+
+## Marsalline Thorncobble XIII (Seedling)
+
+She has the wrong accent for her social standing
+
+## Glimbrin Oddsock
+
+Came by boat
+Randall knows - Not a halfling
+Randall knows - Stole the barman's coinpurse
+
+## Priests of Verena, Goddess of Lore and Learning
+
+Warmed themselves by the fire
+From Nuln by road, dried themselves by the fire by the fire
+
+Overheard - If this war with the Jade Scepter....
+
+Tenants of Verena
+
+- Never refuse to arbirtate when asked to do so
+- Always tell the truth regardless of reward of threat
+- Protect knowledge at all costs
+- Combat must be the last resort, when all other options have been exhasusted
+- Never become a tool of injustice or herasy
+
+### Jacob S
+
+The order of the scalebearer, devoted of Verena
+
+## Mr + Mrs Schmidt
+
+Rich looking couple, arrived by boat
+
+### Mr Schmidt
+
+Looks and sounds like Boris
+Heated discussion with a servant of the Gravin
+
+## Priests of Mor, God of the Dead
+
+Robed figures, with a coffin and booked a room
+
+## Ursula Kopfgeld
+
+Carrying a confidential messages from the Kemperbad Town Council to Nuln
+Delivering a warrant
+A tough looking woman in her mid 40's
+Lost an arm wrestle with [Bruno Frankie](#bruno-frankie)
+
+## Freedrick Fhuller, Travelling Hawker
+
+Shouts the quality and excellence of Hoburns Ploughs - new plough which will revolutionise farming in the Empire
+Freedrick will talk about Ploughs for as long is he is allowed
+Will put in a good word and discuss terms of doing business in harder farming grounds if I ever travel to Ubersreik where his employer Hisber and Son's Fine Plows are located.
+
+## Magrat, Trapper
+
+Talks at length on how to skin rabbits
+Died! Maybe choked to death
