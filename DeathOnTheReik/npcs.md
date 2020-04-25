@@ -25,7 +25,7 @@
 ### Hanz Orf
 
 Barman  
-Racist towards halfings
+Racist towards Halfings
 
 ### Old Bess
 
@@ -43,7 +43,7 @@ Travelling to Temperbad to settle a legal dispute to do with the death of a gues
 ### Bruno Frankie
 
 Bodyguard and Judical Champion of [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)  
-He is a hulking man in estillient dress
+He is a hulking man in Estalian dress
 
 ### 2 Men at arms
 
@@ -56,8 +56,8 @@ She has the wrong accent for her social standing
 ## Glimbrin Oddsock
 
 Came by boat  
-Randall knows - Not a halfling  
-Randall knows - Stole the barman's coinpurse  
+Randall knows - Not a Halfling  
+Randall knows - Stole the barman's coin purse  
 
 ## Priests of Verena, Goddess of Lore and Learning
 
@@ -68,11 +68,11 @@ Overheard - If this war with the Jade Scepter....
 
 Tenants of Verena
 
-- Never refuse to arbirtate when asked to do so
+- Never refuse to arbitrate when asked to do so
 - Always tell the truth regardless of reward of threat
 - Protect knowledge at all costs
-- Combat must be the last resort, when all other options have been exhasusted
-- Never become a tool of injustice or herasy
+- Combat must be the last resort, when all other options have been exhausted
+- Never become a tool of injustice or heresy
 
 ### Jacob Schwartz
 

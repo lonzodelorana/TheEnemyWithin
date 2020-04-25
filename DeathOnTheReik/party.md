@@ -11,6 +11,10 @@ Carrying a letter to Rudolf Gultz in Nuln from the Altdorf City Council
 
 Has little patience for less intelligent people
 
-### Hildegard
+### Hildegard Schmidt
 
 Uncounciously counts cards
+
+## Randall Goodmead
+
+Better at stones than Wanda, much to her chagrin.
