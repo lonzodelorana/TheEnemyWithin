@@ -15,6 +15,7 @@
     - [Jacob Schwartz](#jacob-schwartz)
   - [Mr + Mrs Schmidt](#mr--mrs-schmidt)
     - [Mr Schmidt](#mr-schmidt)
+    - [Mrs Schmidt](#mrs-schmidt)
   - [Priests of Mor, God of the Dead](#priests-of-mor-god-of-the-dead)
   - [Ursula Kopfgeld](#ursula-kopfgeld)
   - [Freedrick Fhuller, Travelling Hawker](#freedrick-fhuller-travelling-hawker)
@@ -87,6 +88,10 @@ Rich looking couple, arrived by boat
 Looks and sounds like Boris  
 Heated discussion with a servant of the Gravin
 
+### Mrs Schmidt
+
+Likely not Mrs Schmidt
+
 ## Priests of Mor, God of the Dead
 
 Robed figures, with a coffin and booked a room
@@ -96,7 +101,8 @@ Robed figures, with a coffin and booked a room
 Carrying a confidential messages from the Kemperbad Town Council to Nuln  
 Delivering a warrant  
 A tough looking woman in her mid 40's  
-Lost an arm wrestle with [Bruno Frankie](#bruno-frankie)
+Lost an arm wrestle with [Bruno Frankie](#bruno-frankie)  
+"Which room, or What room" along with a large bag of coin to [Hanz Orf](#hanz-orf)
 
 ## Freedrick Fhuller, Travelling Hawker
 
