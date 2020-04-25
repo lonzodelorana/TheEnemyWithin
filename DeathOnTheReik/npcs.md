@@ -72,7 +72,7 @@ Stick thin with grey haired legs with slippers
 Heads over to the bar and orders a brandy  
 Lawyer and personal secretary to [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
 
-Murdered one of the Priests of Verena
+Murdered one of the [Priests of Verena, Goddess of Lore and Learning](#priests-of-verena-goddess-of-lore-and-learning)
 Wants us to remove the other's for 25 gold crowns
 
 ## Halflings?
