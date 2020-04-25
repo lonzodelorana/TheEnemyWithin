@@ -69,7 +69,11 @@ He is a hulking man in Estalian dress
 
 silk Dressing gown, nightcap with a pompom  
 Stick thin with grey haired legs with slippers  
-Heads over to the bar and orders a brandy
+Heads over to the bar and orders a brandy  
+Lawyer and personal secretary to [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)
+
+Murdered one of the Priests of Verena
+Wants us to remove the other's for 25 gold crowns
 
 ## Halflings?
 
