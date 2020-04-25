@@ -38,7 +38,7 @@ Came by coach
 ### Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln
 
 Relative of the Elector Count of Nuln  
-Travelling to Temperbad to settle a legal dispute to do with the death of a guest at a party in Nuln hosted by an aunt, Countess Emmanuelle
+Travelling to Kemperbad to settle a legal dispute to do with the death of a guest at a party in Nuln hosted by an aunt, Countess Emmanuelle
 
 ### Bruno Frankie
 
