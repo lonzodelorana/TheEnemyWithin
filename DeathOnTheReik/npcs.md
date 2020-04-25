@@ -23,6 +23,7 @@
   - [Ursula Kopfgeld](#ursula-kopfgeld)
   - [Freedrick Fhuller, Travelling Hawker](#freedrick-fhuller-travelling-hawker)
   - [Magrat, Trapper](#magrat-trapper)
+  - [Heavily mustachioed man with other men](#heavily-mustachioed-man-with-other-men)
 
 ## Inn Staff
 
@@ -153,3 +154,11 @@ Will put in a good word and discuss terms of doing business in harder farming gr
 
 Talks at length on how to skin rabbits  
 Died! Maybe choked to death
+
+## Heavily mustachioed man with other men
+
+Arrived Very late, almost midnight  
+Shouts for Freiderich von Pfeifraucher  
+Clearly drunk  
+Carrying a riding whip
+Whips the staff members in a brawl searching for Pfiefracher  
