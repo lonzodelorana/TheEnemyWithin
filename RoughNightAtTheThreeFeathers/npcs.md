@@ -24,6 +24,7 @@
   - [Freedrick Fhuller, Travelling Hawker](#freedrick-fhuller-travelling-hawker)
   - [Magrat, Trapper](#magrat-trapper)
   - [Heavily mustachioed man with other men](#heavily-mustachioed-man-with-other-men)
+  - [Dominique Herveaux](#dominique-herveaux)
 
 ## Inn Staff
 
@@ -50,6 +51,7 @@ Came by coach
 
 Relative of the Elector Count of Nuln  
 Travelling to Kemperbad to settle a legal dispute to do with the death of a guest at a party in Nuln hosted by an aunt, Countess Emmanuelle
+Dammenblatz is the aggrieved party
 
 ### Bruno Frankie
 
@@ -124,15 +126,19 @@ Rich looking couple, arrived by boat
 ### Mr Schmidt
 
 Looks and sounds like Boris  
-Heated discussion with a servant of the Gravin
+Heated discussion with a servant of the Gravin  
+Is really Freiderich von Pfeifraucher
 
 ### Mrs Schmidt
 
 Likely not Mrs Schmidt
+Is Hanna Lastkahn
 
 ## Priests of Mor, God of the Dead
 
 Robed figures, with a coffin and booked a room
+All died and a headless corpse was in the coffin  
+
 
 ## Ursula Kopfgeld
 
@@ -157,8 +163,21 @@ Died! Maybe choked to death
 
 ## Heavily mustachioed man with other men
 
+![mustacioed](https://cdn.discordapp.com/attachments/701360672096780368/706135654630948884/unknown.png)
+
+![Mho, Larz and 'Curls'](https://cdn.discordapp.com/attachments/701360672096780368/706135823082323978/unknown.png)
+
 Arrived Very late, almost midnight  
 Shouts for Freiderich von Pfeifraucher  
 Clearly drunk  
 Carrying a riding whip
 Whips the staff members in a brawl searching for Pfiefracher  
+Future husband of [Mrs Schmidt](#mrs-schmidt)  
+Has three thugs, Mho, Larz and 'Curls'  
+
+## Dominique Herveaux
+
+![Dominique Herveaux](https://cdn.discordapp.com/attachments/701360672096780368/706153808434036786/unknown.png)
+
+Assassin! Attacked us after presumably killing [Bruno Frankie](#bruno-frankie)  
+Brettonian  
