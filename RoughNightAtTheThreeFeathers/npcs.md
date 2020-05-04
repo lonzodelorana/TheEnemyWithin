@@ -23,7 +23,7 @@
   - [Ursula Kopfgeld](#ursula-kopfgeld)
   - [Freedrick Fhuller, Travelling Hawker](#freedrick-fhuller-travelling-hawker)
   - [Magrat, Trapper](#magrat-trapper)
-  - [Heavily mustachioed man with other men](#heavily-mustachioed-man-with-other-men)
+  - [Heavily moustachioed man with other men](#heavily-moustachioed-man-with-other-men)
   - [Dominique Herveaux](#dominique-herveaux)
 
 ## Inn Staff
@@ -33,7 +33,7 @@
 ![Hans Orf](https://cdn.discordapp.com/attachments/701360672096780368/703594343184859136/Untitled-3.png)
 
 Barman  
-Racist towards Halfings
+Racist towards Halflings
 
 ### Old Bess
 
@@ -57,7 +57,7 @@ Dammenblatz is the aggrieved party
 
 ![Bruno](https://cdn.discordapp.com/attachments/701360672096780368/703594315326292058/Bruno.png)
 
-Judical Champion of [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)  
+Judicial Champion of [Gravin Maria- Ulrike von Liebwitz of Ambosstein Nuln](#gravin-maria--ulrike-von-liebwitz-of-ambosstein-nuln)  
 He is a hulking man in Estalian dress
 
 ### Bodyguard
@@ -99,7 +99,7 @@ Randall knows - Stole the barman's coin purse
 Warmed themselves by the fire  
 From Nuln by road
 
-Overheard - If this war with the Jade Scepter....
+Overheard - If this war with the Jade Sceptre....
 
 Tenants of Verena
 
@@ -139,7 +139,6 @@ Is Hanna Lastkahn
 Robed figures, with a coffin and booked a room
 All died and a headless corpse was in the coffin  
 
-
 ## Ursula Kopfgeld
 
 ![Ursula Kopfgeld](https://cdn.discordapp.com/attachments/701360672096780368/703606284150112266/unknown.png)
@@ -161,9 +160,9 @@ Will put in a good word and discuss terms of doing business in harder farming gr
 Talks at length on how to skin rabbits  
 Died! Maybe choked to death
 
-## Heavily mustachioed man with other men
+## Heavily moustachioed man with other men
 
-![mustacioed](https://cdn.discordapp.com/attachments/701360672096780368/706135654630948884/unknown.png)
+![moustachioed](https://cdn.discordapp.com/attachments/701360672096780368/706135654630948884/unknown.png)
 
 ![Mho, Larz and 'Curls'](https://cdn.discordapp.com/attachments/701360672096780368/706135823082323978/unknown.png)
 
@@ -171,7 +170,7 @@ Arrived Very late, almost midnight
 Shouts for Freiderich von Pfeifraucher  
 Clearly drunk  
 Carrying a riding whip
-Whips the staff members in a brawl searching for Pfiefracher  
+Whips the staff members in a brawl searching for Pfeifraucher  
 Future husband of [Mrs Schmidt](#mrs-schmidt)  
 Has three thugs, Mho, Larz and 'Curls'  
 

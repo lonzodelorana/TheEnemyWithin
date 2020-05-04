@@ -13,7 +13,7 @@ Has little patience for less intelligent people
 
 ### Hildegard Schmidt
 
-Uncounciously counts cards
+Unconsciously counts cards
 
 ## Randall Goodmead
 
