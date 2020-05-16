@@ -1,4 +1,10 @@
-# Quest and Timeline
+# Set up
+
+Randall was sent to facilitate the transport of goods on the return journey
+
+Wanda providing security
+
+## Quest and Timeline
 
 11:15 Knock at door, bespectacled man servant, Gravin wishes to see me?
 
