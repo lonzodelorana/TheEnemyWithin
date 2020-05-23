@@ -7,6 +7,10 @@
   - [Day 4](#day-4)
   - [Day 5](#day-5)
   - [Day 6](#day-6)
+    - [Session 4 Started](#session-4-started)
+  - [Day 7](#day-7)
+    - [Session 5 Started](#session-5-started)
+  - [Day 8](#day-8)
 
 ## Day 1
 
@@ -38,7 +42,7 @@ Evening of entertainment for all.  Wanda renames the kitten to Ser Pouncealot
 
 We come to the town of Grisenwald  
 
-Liebefreude invites me into his antique shop. Set of tableware plate. 
+Liebefreude invites me into his antique shop. Set of tableware plate.  
 
 ![Liebefreude](https://cdn.discordapp.com/attachments/701360672096780368/708693576619524217/253361d96cb3371b1b4bc862fa30a2dbec9e1f1a.png)
 
@@ -70,6 +74,8 @@ Eventually after the tour, we arrive at an apothecary shop belonging to Rudolf, 
 
 Door open at the back, shop had been turned over and there is a painting of a white fish with large teeth.
 
+### Session 4 Started
+
 Just background magic
 
 Specific things have been searched for - not generally robbed, the person who did this knew what they wanted.  
@@ -98,7 +104,7 @@ Left the night before with some friends. Rough looking friends, odd hatti
 
 2 Night ago argument, raised voices and some clattering
 
-Business Partner died a few years ago, parents are dead  
+Business Partner Stanislav died a few years ago, parents are dead  
 
 Spoke to Ulrika
 
@@ -120,6 +126,8 @@ After a difficult fight Hildegard defeats Heinrick and much money is made!
 
 We get her patched up and go to bed
 
+## Day 7
+
 In the morning blowhard takes us to an apothecary
 
 Herbs are used to treat infections
@@ -132,4 +140,80 @@ Gang war
 
 Here Ye! Here Ye! Here Ye! Walken the Whacker dies in bar fight. City Mourns.
 
-Blowhard tells us that one of Claypipes Gold Reserve. One of the best brands in the City.
+Blowhard tells us that one of Claypipes Gold Reserve. One of the best brands in the City.  
+
+### Session 5 Started
+
+Wanda checks out the Claypipe shop and sounds out the owner, he seems profit orientated
+
+Randall attempt to bribe and does so very successfully.
+
+- No Blowback *
+- Additional Information
+- Make d6 crowns on deal *
+
+A good price is given on the barrel of pipeweed
+
+The brand is popular with the leadership of the white fish gang and we get a delivery address for orders, in the docks.
+
+Delivery is in 3 days, option to be able to deliver ourselves.
+
+We travel to scope out the hideout, stopping by for wurtz
+
+RUMOUR: Emperor has a sister, hidden in Altdorf, shame of the empire, barking mad!
+
+RUMOUR: Weather is going to take a turn for the worst, it's going to rain tomorrow.
+
+We arrive at the address, it's a Gin distillery with attached malting's with a dock for a riverboat
+
+Building is in moderate repair, covered in white fish symbology, it is not as well maintained as it should be.  There is a boat moored up inside. Smoke is coming out of one of the distillery stacks. A couple of people with white fish tattoos are near the entrances keeping guard.
+
+Bought a writing kit and found out Lichrock had a mystery disease, broke out in red blotches.
+
+Went to repair crossbow, part of the Nuln of Armourers and associated with the Nuln gunnery school.
+
+LARGE REWARD Bonifaz has gone Missing. Please help find my Sickly Great Aunt’s tiny pedigree puppy. She doesn’t know he’s missing yet. Please Help. Information to: Arne Zimmerman c/o The Green Bottle Inn, Hauptstrasse.
+
+Heading to the green bottle, a huge crowd of ne'erdowells with pupps and dogs are trying to get into a barricaed Green Bottle Inn, the properieter is trying to get rid of them, threatening with a blunderbuss, throwning a chamberpot and eventually getting them to go, he seemed to know nothing of Zimmerman
+
+A seriously grizzled and scarred up jack russell, it has a collar and is named Gobels, property of Christoph Steiner, rat catcher extrodinarre.
+
+Offices of Steiner and daughter. Steiner's marvellous taxidermy, full of rat heads.
+
+Returned dog for a shilling.
+
+Sister and Dad come out from the back, sister is very tomboyish
+
+Sewers are not like they used to be, not patrolled as often as they are. Skaven are down in the sewers! Cults and beggars, gangs through the sewers.
+
+Return back to the inn for a good meal
+
+We head out to "Cheeky Nando's" A Burlesque club
+
+## Day 8
+
+In the morning leaving the inn we are accosted by 3 people wearing leather jacks, with arm tattoos of white fish.
+
+Herr Strous Drosselmeyer  wants a word with us
+
+![Herr Strous Drosselmeyer](https://cdn.discordapp.com/attachments/701360672096780368/713786419918667876/gangs-of-new-york.png)
+
+Lead through the white fish hideout, to the office at the back, a man looking like Rudolf is still upstairs
+
+Mural woman from the blind pig inn is here. Has a body that looks like it's made from knotted rope. Skin is scraped and scarred. Callused knuckles and multiple breaks in her nose and cheeks.
+
+5 days ago, his lads and lasses were sent into the Grossspucke, the main sewer outlet this side of the city, for the butchers quarter
+
+Men were sent in to clear out a group of beggars, to make use of a section of the sewer to use for "business"
+
+Big pile of of bones and rubbish, treating it like a shrine.
+
+Rudolf is here speaking with a Hockland accent, from the North of the Empire.
+
+The wounds are festering extremely quickly, could be unsanitary conditions, or could be more?
+
+Offers us 20 gold crowns each to clear out the sewers of beggars
+
+Cargo is 20 barrels of materials.
+
+We equip ourselves for a jaunt into the sewers!
