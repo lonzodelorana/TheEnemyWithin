@@ -11,6 +11,7 @@
   - [Day 7](#day-7)
     - [Session 5 Started](#session-5-started)
   - [Day 8](#day-8)
+    - [Session 6 started](#session-6-started)
 
 ## Day 1
 
@@ -174,7 +175,7 @@ Went to repair crossbow, part of the Nuln of Armourers and associated with the N
 
 LARGE REWARD Bonifaz has gone Missing. Please help find my Sickly Great Aunt’s tiny pedigree puppy. She doesn’t know he’s missing yet. Please Help. Information to: Arne Zimmerman c/o The Green Bottle Inn, Hauptstrasse.
 
-Heading to the green bottle, a huge crowd of ne'erdowells with pupps and dogs are trying to get into a barricaed Green Bottle Inn, the properieter is trying to get rid of them, threatening with a blunderbuss, throwning a chamberpot and eventually getting them to go, he seemed to know nothing of Zimmerman
+Heading to the green bottle, a huge crowd of ne'erdowells with pupps and dogs are trying to get into a barricade Green Bottle Inn, the proprietor is trying to get rid of them, threatening with a blunderbuss, throwing a chamberpot and eventually getting them to go, he seemed to know nothing of Zimmerman
 
 A seriously grizzled and scarred up jack russell, it has a collar and is named Gobels, property of Christoph Steiner, rat catcher extrodinarre.
 
@@ -217,3 +218,63 @@ Offers us 20 gold crowns each to clear out the sewers of beggars
 Cargo is 20 barrels of materials.
 
 We equip ourselves for a jaunt into the sewers!
+
+### Session 6 started
+
+We wish to hire some mercs to help us in the sewers.
+
+Mercenary company stationed in town in the Hogs Heads who are a pike company. They are officed out of the Templar's arms.
+
+3 Officers are in the back room.
+
+Young man is Herr Detlev Ulrikson (Mercenary paymaster). Owner of the company.
+
+Captain Hans Grubber balding man with mutton chops
+
+Gunnery Sergeant Wilhemina Strossmir
+
+Taalman, Junt and Delgar
+
+Heading for the south with winter coming
+
+A Dwarf Slayer is staying at the inn, Junt tells him about us and he asks to join us. His name is Baragaz Duraksnev.
+
+We visit the ratcatcher and hire him to guide us into the sewers, he takes us in by boat!. He also provides some posies to help with the miasma and the smell
+
+We get a guided boat tour of the sewers.
+
+We find the shrine and tents, destroy the idol and tents but find a clay idol to papa nurgle, the whole site is a religious site for nurgle.
+
+found 4 beggars looking out for something, slayed and put them down,
+
+Explored for a further hour, not sign found.
+
+Paid for the mercenary who was injured to get treated at an apothecary, paid for their services and left back to find Ulrika to see about passage back to Altdorf with a cargo.
+
+Medicine for the watch, including a large shipment of medicine for Pubic lice and warts.
+
+We head to Fleischer’s Famous Furters in Links park
+
+Links park is a nice tree lined avenue. No 128 is a media sized and unimposing house, a long chain hangs next to a freshly painted door.
+
+Frauline Lisbett has gone missing
+
+Very large man makes his way in, very jowley with chins
+
+Greggar Fleischer, his daughter has been missing for 3 days
+
+She went off with her friend Carla Lint, to a restaurant they liked, Carla reported that Lisbett went home early.
+
+The boys at the shop may know, perhaps the neighbours.
+
+His oldest shop was broken into a few times in the last few months, nothing was taken though.
+
+We gained a locket with a portrait. She has a locket with a picture of me in it. Painted 7 years ago when his wife died.
+
+We get Carla's address.
+
+2gp each returned and for info.
+
+We are kicked out by the butler
+
+The curtains next door twitch!
